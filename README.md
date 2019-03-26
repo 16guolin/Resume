@@ -2,7 +2,6 @@
 
 Single-page resume template built using HTML, CSS, and JS that can be viewed on the web or exported to a PDF.
 
-
 ## Flexibility
 
 This template can be editted both in HTML and CSS. You can fully customize the layout and style to suit your needs.
